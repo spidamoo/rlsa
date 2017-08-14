@@ -1,0 +1,24 @@
+<level>
+    <set>
+        <option filename="meshes/1x2_empty.b3d" />
+    </set>
+    <set>
+        <option filename="meshes/3x3_empty.b3d" />
+    </set>
+    <sector x="0" y="0" set="1" />
+    <sector x="3" y="0" set="1" />
+    <sector x="6" y="0" set="1" />
+    <sector x="9" y="0" set="1" />
+    <sector x="0" y="3" set="1" />
+    <sector x="3" y="3" set="1" />
+    <sector x="6" y="3" set="1" />
+    <sector x="9" y="3" set="1" />
+    <sector x="0" y="6" set="1" />
+    <sector x="3" y="6" set="1" />
+    <sector x="6" y="6" set="1" />
+    <sector x="9" y="6" set="1" />
+    <sector x="0" y="9" set="1" />
+    <sector x="3" y="9" set="1" />
+    <sector x="6" y="9" set="1" />
+    <sector x="9" y="9" set="1" />
+</level>
